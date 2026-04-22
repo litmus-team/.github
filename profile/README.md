@@ -9,7 +9,7 @@
 <p align="center"><strong>Hire people who last.</strong></p>
 
 <p align="center">
-  The technical hiring platform that suggests an interview pipeline tuned to how your team actually builds — scoped to the features you're shipping next, not generic toy problems.
+  Prepare candidates for the job, not just the interview.
 </p>
 
 <p align="center">
